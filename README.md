@@ -7,22 +7,12 @@
   Alumni — B.S. in Computer Science and Engineering at UC Merced
 </p>
 
----
-
-## About Me
 Hi! My name is Harshini Nujella 
 - Open to [INTERNSHIP / FULL-TIME / RESEARCH OPPORTUNITIES]
 - 📍Bay Area, CA
 - Reach me at [LinkedIn](https://www.linkedin.com/in/harshini-nujella-208841256/ )
+- Interests: AI / Machine Learning, Computer Vision and Full-Stack Web Development
 
----
-
-## Interests
-AI / Machine Learning, Computer Vision and Full-Stack Web Development
-
----
-
-## Tech Stack
 ![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-FF1493?style=flat&logo=cplusplus&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-FFB6C1?style=flat&logo=opencv&logoColor=white)
