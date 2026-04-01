@@ -23,16 +23,16 @@ AI / Machine Learning, Computer Vision and Full-Stack Web Development
 ---
 
 ## Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FF1493?style=flat&logo=cplusplus&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-FFB6C1?style=flat&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF85C1?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFC0CB?style=flat&logo=huggingface&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FF69B4?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FF1493?style=flat&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-FFB6C1?style=flat&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-FF85C1?style=flat&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FFC0CB?style=flat&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-FF69B4?style=flat&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF1493?style=flat&logo=javascript&logoColor=white)
 ---
