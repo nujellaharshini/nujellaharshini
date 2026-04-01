@@ -11,7 +11,7 @@
 
 ## About Me
 Hi! My name is Harshini Nujella 
-- 💼 Open to [INTERNSHIP / FULL-TIME / RESEARCH OPPORTUNITIES]
+- Open to [INTERNSHIP / FULL-TIME / RESEARCH OPPORTUNITIES]
 - 📍Bay Area, CA
 - Reach me at [LinkedIn](https://www.linkedin.com/in/harshini-nujella-208841256/ )
 
