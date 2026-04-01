@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=80&lines=Hey+there!+🌸" alt="Hey there!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=80&lines=Hey+there!+🌸" alt="Hey there!" />
 </h1>
 
 <p align="center">
-  Incoming - Master of Engineering at UCLA
-  Alumni - B.S. in Computer Science and Engineering at UC Merced 
+  Incoming — Master of Engineering at UCLA <br/>
+  Alumni — B.S. in Computer Science and Engineering at UC Merced
 </p>
 
 ---
